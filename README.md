@@ -1,4 +1,4 @@
-# Bhargavi Kattela
+# BhargaviKattela
 ## Scientific Support | Data Insights | Biotech and Chemistry
 
 Bhargavi Kattela is a Scientific Support Executive with a strong foundation in chemistry and data analytics.
