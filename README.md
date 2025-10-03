@@ -1,5 +1,5 @@
 # BhargaviKattela
-
+## Scientific Support | Data Analytics & Visulaization | SQL | Power BI | Python | Biotech and Chemistry
 
 Bhargavi Kattela is a Scientific Support Executive with a strong foundation in chemistry and data analytics.
 She is passionate about combining scientific expertise with analytical tools to deliver actionable business and research insights.
