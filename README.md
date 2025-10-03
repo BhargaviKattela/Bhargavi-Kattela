@@ -3,11 +3,13 @@
 
 Bhargavi Kattela is a Scientific Support Executive with a strong foundation in chemistry and data analytics.
 She is passionate about combining scientific expertise with analytical tools to deliver actionable business and research insights.
+She's keen about turning complex datasets into actionable insights—whether to advance scientific research or improve business decision-making. My unique background allows me to blend scientific rigor with analytical tools, helping organizations make data-driven choices with confidence.
 
 Present Experience & Skills - 
 
 At Biotech Desk, she provides scientific consultation to academic and industry clients, ensuring timely and insight-driven support.
-Her expertise spans SQL, Excel, Power BI, Python, and CRM tools (Zoho Books, Bigin) for data analysis, reporting, and trend detection.
+Her expertise spans SQL, Excel, Power BI, Python, and CRM tools (Zoho Books, Bigin) for data analysis improving reporting, pricing optimization and trend detection.
+Designed Excel-based performance reports and conducted anomaly detection to improve projections, enhance client retention, and support strategic decision-making.
 
 Past Experience - 
 
